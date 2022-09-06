@@ -1,6 +1,9 @@
 [tool.poetry]
 name = "streamlit-example"
 version = "0.1.0"
+description = "Streamlit example"
+authors = ["Streamlit Team"]
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.9"
